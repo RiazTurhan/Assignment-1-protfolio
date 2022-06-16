@@ -169,3 +169,47 @@ button:hover{
     border-radius: 10px;
 }
 /*------------------ Section 2 End ------------------------- */
+
+/*---------------- section 3 start ------------------------*/
+.develop{
+    margin: 0 50px;
+    position: relative;
+    bottom: 100px;
+    width: 95%;
+    align-items: center;
+}
+
+.devlop-iteam{
+    display: flex;
+}
+.shapes img{
+    width: 200px;
+    position: relative;
+    top: 250px;
+    z-index: -1;
+}
+.develop-img {
+   
+}
+.develop-img img{
+    width: 400px;
+    margin-left: 100px;
+}
+.devlop-text{
+    
+    margin: 80px;
+}
+.devlop-text h1{
+    font-size: 2.5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    color: #1f1f1f;
+}
+.devlop-text p{
+    font-size: 19px;
+    margin: 20px 0;
+    letter-spacing: 1px;
+    color: rgb(37, 37, 37);
+    
+}
+/*---------------- section 3 End ------------------------*/
