@@ -252,6 +252,8 @@ button:hover{
 
 
 /*------------ section 4 End ----------------*/
+
+/*------------- Saction 5 Start --------------*/
 .application-title{
     text-align: center;
 }
@@ -302,6 +304,8 @@ button:hover{
     width: 80%;
     margin: auto;
     justify-content: end;
+    position: relative;
+    left: 100px;
 }
 .application-text h1{
     font-size: 2.6rem;
@@ -327,3 +331,31 @@ button:hover{
     bottom: 250px;
     
 }
+/*------------- Saction 5 End --------------*/
+
+/*-------------- footer start ----------------*/
+    footer{
+        width: 100%;
+        height: 150px;
+        background-color: rgb(1, 1, 26);
+        text-align: center;
+        
+    }
+    footer .text{
+        position: relative;
+        top: 30px;
+    }
+    footer h2{
+        color: #ffffff;
+        font-family: 'Dancing Script', cursive;
+        font-size: 2rem;
+        margin: 20px;
+        
+    }
+    footer h2 span{
+        color: #ff7f50;
+    }
+    footer p{
+        color: #ffffff;
+    }
+/*-------------- footer End ----------------*/
